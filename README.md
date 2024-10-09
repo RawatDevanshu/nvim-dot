@@ -29,6 +29,8 @@ This configuration includes the following plugins:
 17. **nvim-treesitter-textobjects**: Syntax-aware text objects
 18. **telescope**: Fuzzy finder
 19. **vim-maximizer**: Window maximizer
+20. **indent-blankline**: indent lines for indented groups
+21. **trouble**: log of warning and error messages
 
 
 ## Customization
